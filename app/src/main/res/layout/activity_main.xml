@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/cricket2"
+    android:background="@drawable/cricketbg"
     tools:context="com.example.i327704.courtcounter.MainActivity">
 
     <LinearLayout
