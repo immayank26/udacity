@@ -165,8 +165,7 @@ public class MainActivity extends AppCompatActivity {
                 t.show();
             }else if (scoreB == scoreA) {
                 matchStatus.setText("Its a TIE");
-//                Toast t = Toast.makeText(this, "Its a TIE", Toast.LENGTH_SHORT);
-//                t.show();
+
             }
         }
     }
@@ -182,8 +181,6 @@ public class MainActivity extends AppCompatActivity {
             disableB();
         } else if (scoreB == scoreA) {
             matchStatus.setText("Its a TIE");
-//            Toast t = Toast.makeText(this, "Its a TIE", Toast.LENGTH_SHORT);
-//            t.show();
         }
     }
 
